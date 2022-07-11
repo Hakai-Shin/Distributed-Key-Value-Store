@@ -1,0 +1,9 @@
+Doubts of Ankush:
+Primary key
+Identifier
+Is it in memory
+Desc table name
+Get,Put(/update)
+Make dir
+
+
